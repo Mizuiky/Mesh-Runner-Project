@@ -1689,3 +1689,540 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.08.19-14.26.21:093][837]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.08.19-14.26.21:093][837]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Runner.BP_Runner
 [2024.08.19-14.26.21:093][837]AssetCheck: /Game/Blueprints/BP_Runner Validating asset
+[2024.08.19-14.30.26:901][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.19-14.30.26:934][ 24]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Runner] ([2] browsable assets)...
+[2024.08.19-14.30.26:934][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Runner]
+[2024.08.19-14.30.26:934][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2024.08.19-14.30.26:937][ 24]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2024.08.19-14.30.26:937][ 24]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Runner6C3501A549781EB0DD1044AF38300ACC.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Runner.uasset'
+[2024.08.19-14.30.26:972][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.795 ms (total: 770.172 ms)
+[2024.08.19-14.30.27:035][ 24]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.19-14.30.27:035][ 24]LogContentValidation: Enabled validators:
+[2024.08.19-14.30.27:035][ 24]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.19-14.30.27:035][ 24]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.19-14.30.27:035][ 24]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.19-14.30.27:035][ 24]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Runner.BP_Runner
+[2024.08.19-14.30.27:035][ 24]AssetCheck: /Game/Blueprints/BP_Runner Validating asset
+[2024.08.19-14.30.28:983][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.08.19-14.30.32:442][526]LogSlate: Window 'BP_Runner' being destroyed
+[2024.08.19-14.37.34:713][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.08.19-14.37.34:717][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.19-14.37.34:771][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_9] ([1] browsable assets)...
+[2024.08.19-14.37.34:772][110]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Runner/Run/T_Runner_Sprite_9.T_Runner_Sprite_9]
+[2024.08.19-14.37.34:772][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_9]
+[2024.08.19-14.37.34:774][110]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_9
+[2024.08.19-14.37.34:774][110]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Runner_Sprite_9BCAACB5142E38E8D752EFF920A360F2D.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Run/T_Runner_Sprite_9.uasset'
+[2024.08.19-14.37.34:775][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_8] ([1] browsable assets)...
+[2024.08.19-14.37.34:776][110]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Runner/Run/T_Runner_Sprite_8.T_Runner_Sprite_8]
+[2024.08.19-14.37.34:776][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_8]
+[2024.08.19-14.37.34:777][110]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_8
+[2024.08.19-14.37.34:777][110]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Runner_Sprite_8A92964614C393AB2ACE5C5B0D9FF73C0.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Run/T_Runner_Sprite_8.uasset'
+[2024.08.19-14.37.34:777][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_7] ([1] browsable assets)...
+[2024.08.19-14.37.34:779][110]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Runner/Run/T_Runner_Sprite_7.T_Runner_Sprite_7]
+[2024.08.19-14.37.34:779][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_7]
+[2024.08.19-14.37.34:780][110]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_7
+[2024.08.19-14.37.34:781][110]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Runner_Sprite_72FECB7A44D16A093069DCAB92BE5B9AC.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Run/T_Runner_Sprite_7.uasset'
+[2024.08.19-14.37.34:781][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_6] ([1] browsable assets)...
+[2024.08.19-14.37.34:782][110]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Runner/Run/T_Runner_Sprite_6.T_Runner_Sprite_6]
+[2024.08.19-14.37.34:782][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_6]
+[2024.08.19-14.37.34:784][110]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_6
+[2024.08.19-14.37.34:785][110]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Runner_Sprite_6402460E948228EB54C00FEBB64057691.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Run/T_Runner_Sprite_6.uasset'
+[2024.08.19-14.37.34:785][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_5] ([1] browsable assets)...
+[2024.08.19-14.37.34:786][110]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Runner/Run/T_Runner_Sprite_5.T_Runner_Sprite_5]
+[2024.08.19-14.37.34:786][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_5]
+[2024.08.19-14.37.34:787][110]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_5
+[2024.08.19-14.37.34:787][110]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Runner_Sprite_53E75A56D4BED771D1822EFB80803667D.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Run/T_Runner_Sprite_5.uasset'
+[2024.08.19-14.37.34:788][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_4] ([1] browsable assets)...
+[2024.08.19-14.37.34:790][110]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Runner/Run/T_Runner_Sprite_4.T_Runner_Sprite_4]
+[2024.08.19-14.37.34:790][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_4]
+[2024.08.19-14.37.34:791][110]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_4
+[2024.08.19-14.37.34:791][110]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Runner_Sprite_458EC628A416E795E3AAD01AFB935DB85.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Run/T_Runner_Sprite_4.uasset'
+[2024.08.19-14.37.34:791][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_3] ([1] browsable assets)...
+[2024.08.19-14.37.34:792][110]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Runner/Run/T_Runner_Sprite_3.T_Runner_Sprite_3]
+[2024.08.19-14.37.34:792][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_3]
+[2024.08.19-14.37.34:794][110]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_3
+[2024.08.19-14.37.34:794][110]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Runner_Sprite_3A9E758584C6748CB51093DB2BB059197.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Run/T_Runner_Sprite_3.uasset'
+[2024.08.19-14.37.34:794][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_2] ([1] browsable assets)...
+[2024.08.19-14.37.34:797][110]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Runner/Run/T_Runner_Sprite_2.T_Runner_Sprite_2]
+[2024.08.19-14.37.34:797][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_2]
+[2024.08.19-14.37.34:798][110]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_2
+[2024.08.19-14.37.34:798][110]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Runner_Sprite_2393C7CEA4419B2C2D5B54483ED05840A.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Run/T_Runner_Sprite_2.uasset'
+[2024.08.19-14.37.34:834][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.516 ms (total: 886.688 ms)
+[2024.08.19-14.37.34:887][110]LogContentValidation: Display: Starting to validate 8 assets
+[2024.08.19-14.37.34:887][110]LogContentValidation: Enabled validators:
+[2024.08.19-14.37.34:887][110]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.19-14.37.34:887][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.19-14.37.34:887][110]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.19-14.37.34:887][110]LogContentValidation: Display: Validating asset /Game/PaperAssets/Runner/Run/T_Runner_Sprite_9.T_Runner_Sprite_9
+[2024.08.19-14.37.34:887][110]AssetCheck: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_9 Validating asset
+[2024.08.19-14.37.34:887][110]LogContentValidation: Display: Validating asset /Game/PaperAssets/Runner/Run/T_Runner_Sprite_8.T_Runner_Sprite_8
+[2024.08.19-14.37.34:887][110]AssetCheck: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_8 Validating asset
+[2024.08.19-14.37.34:887][110]LogContentValidation: Display: Validating asset /Game/PaperAssets/Runner/Run/T_Runner_Sprite_7.T_Runner_Sprite_7
+[2024.08.19-14.37.34:887][110]AssetCheck: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_7 Validating asset
+[2024.08.19-14.37.34:887][110]LogContentValidation: Display: Validating asset /Game/PaperAssets/Runner/Run/T_Runner_Sprite_6.T_Runner_Sprite_6
+[2024.08.19-14.37.34:887][110]AssetCheck: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_6 Validating asset
+[2024.08.19-14.37.34:887][110]LogContentValidation: Display: Validating asset /Game/PaperAssets/Runner/Run/T_Runner_Sprite_5.T_Runner_Sprite_5
+[2024.08.19-14.37.34:887][110]AssetCheck: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_5 Validating asset
+[2024.08.19-14.37.34:887][110]LogContentValidation: Display: Validating asset /Game/PaperAssets/Runner/Run/T_Runner_Sprite_4.T_Runner_Sprite_4
+[2024.08.19-14.37.34:887][110]AssetCheck: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_4 Validating asset
+[2024.08.19-14.37.34:887][110]LogContentValidation: Display: Validating asset /Game/PaperAssets/Runner/Run/T_Runner_Sprite_3.T_Runner_Sprite_3
+[2024.08.19-14.37.34:887][110]AssetCheck: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_3 Validating asset
+[2024.08.19-14.37.34:887][110]LogContentValidation: Display: Validating asset /Game/PaperAssets/Runner/Run/T_Runner_Sprite_2.T_Runner_Sprite_2
+[2024.08.19-14.37.34:887][110]AssetCheck: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_2 Validating asset
+[2024.08.19-14.38.21:711][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.08.19-14.38.21:715][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.19-14.38.21:768][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/Idle/T_Runner_Sprite_1] ([1] browsable assets)...
+[2024.08.19-14.38.21:770][575]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Runner/Idle/T_Runner_Sprite_1.T_Runner_Sprite_1]
+[2024.08.19-14.38.21:770][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/Idle/T_Runner_Sprite_1]
+[2024.08.19-14.38.21:771][575]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/Idle/T_Runner_Sprite_1
+[2024.08.19-14.38.21:771][575]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Runner_Sprite_164859AB64A803D1CFAABE0919F2469BF.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Idle/T_Runner_Sprite_1.uasset'
+[2024.08.19-14.38.21:772][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/Idle/T_Runner_Sprite_0] ([1] browsable assets)...
+[2024.08.19-14.38.21:774][575]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Runner/Idle/T_Runner_Sprite_0.T_Runner_Sprite_0]
+[2024.08.19-14.38.21:774][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/Idle/T_Runner_Sprite_0]
+[2024.08.19-14.38.21:775][575]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/Idle/T_Runner_Sprite_0
+[2024.08.19-14.38.21:775][575]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Runner_Sprite_0C7B267D0481C94212F442C9299ED0C60.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Idle/T_Runner_Sprite_0.uasset'
+[2024.08.19-14.38.21:810][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.432 ms (total: 982.120 ms)
+[2024.08.19-14.38.21:868][575]LogContentValidation: Display: Starting to validate 2 assets
+[2024.08.19-14.38.21:868][575]LogContentValidation: Enabled validators:
+[2024.08.19-14.38.21:868][575]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.19-14.38.21:868][575]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.19-14.38.21:868][575]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.19-14.38.21:868][575]LogContentValidation: Display: Validating asset /Game/PaperAssets/Runner/Idle/T_Runner_Sprite_1.T_Runner_Sprite_1
+[2024.08.19-14.38.21:868][575]AssetCheck: /Game/PaperAssets/Runner/Idle/T_Runner_Sprite_1 Validating asset
+[2024.08.19-14.38.21:868][575]LogContentValidation: Display: Validating asset /Game/PaperAssets/Runner/Idle/T_Runner_Sprite_0.T_Runner_Sprite_0
+[2024.08.19-14.38.21:868][575]AssetCheck: /Game/PaperAssets/Runner/Idle/T_Runner_Sprite_0 Validating asset
+[2024.08.19-14.39.36:942][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.08.19-14.40.02:681][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.08.19-14.40.02:682][ 88]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Debug' took 0.018
+[2024.08.19-14.40.02:682][ 88]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Runner] ([2] browsable assets)...
+[2024.08.19-14.40.02:682][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Runner]
+[2024.08.19-14.40.02:685][ 88]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Runner_Auto3
+[2024.08.19-14.40.02:685][ 88]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Runner_Auto34FC0E507486610B90DB6D8ACF2AB1E4E.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/Autosaves/Game/Blueprints/BP_Runner_Auto3.uasset'
+[2024.08.19-14.40.02:685][ 88]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.08.19-14.41.16:137][894]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_16.svg'. File could not be found
+[2024.08.19-14.43.01:502][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.08.19-14.43.01:506][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.19-14.43.01:559][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Background/T_Field_Sprite] ([1] browsable assets)...
+[2024.08.19-14.43.01:560][853]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Background/T_Field_Sprite.T_Field_Sprite]
+[2024.08.19-14.43.01:560][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Background/T_Field_Sprite]
+[2024.08.19-14.43.01:561][853]LogSavePackage: Moving output files for package: /Game/PaperAssets/Background/T_Field_Sprite
+[2024.08.19-14.43.01:561][853]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Field_SpriteB6852E16409A9EC906A084A7E592729A.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Background/T_Field_Sprite.uasset'
+[2024.08.19-14.43.01:562][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Goal/T_Goal_Ripped_Sprite] ([1] browsable assets)...
+[2024.08.19-14.43.01:563][853]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Goal/T_Goal_Ripped_Sprite.T_Goal_Ripped_Sprite]
+[2024.08.19-14.43.01:563][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Goal/T_Goal_Ripped_Sprite]
+[2024.08.19-14.43.01:565][853]LogSavePackage: Moving output files for package: /Game/PaperAssets/Goal/T_Goal_Ripped_Sprite
+[2024.08.19-14.43.01:565][853]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Goal_Ripped_Sprite6748D2CA447ADDEC5A3E4E90BB373B2D.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Goal/T_Goal_Ripped_Sprite.uasset'
+[2024.08.19-14.43.01:565][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Goal/T_Goal_Connected_Sprite] ([1] browsable assets)...
+[2024.08.19-14.43.01:567][853]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Goal/T_Goal_Connected_Sprite.T_Goal_Connected_Sprite]
+[2024.08.19-14.43.01:567][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Goal/T_Goal_Connected_Sprite]
+[2024.08.19-14.43.01:568][853]LogSavePackage: Moving output files for package: /Game/PaperAssets/Goal/T_Goal_Connected_Sprite
+[2024.08.19-14.43.01:569][853]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Goal_Connected_Sprite2815155646AEF9A608995A990481807C.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Goal/T_Goal_Connected_Sprite.uasset'
+[2024.08.19-14.43.01:569][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/Idle/T_Runner_Sprite_1] ([1] browsable assets)...
+[2024.08.19-14.43.01:571][853]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Runner/Idle/T_Runner_Sprite_1.T_Runner_Sprite_1]
+[2024.08.19-14.43.01:571][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/Idle/T_Runner_Sprite_1]
+[2024.08.19-14.43.01:572][853]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/Idle/T_Runner_Sprite_1
+[2024.08.19-14.43.01:572][853]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Runner_Sprite_16D79A10046CC74D38ACD759ABAFE8B2C.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Idle/T_Runner_Sprite_1.uasset'
+[2024.08.19-14.43.01:572][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/Idle/T_Runner_Sprite_0] ([1] browsable assets)...
+[2024.08.19-14.43.01:574][853]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Runner/Idle/T_Runner_Sprite_0.T_Runner_Sprite_0]
+[2024.08.19-14.43.01:574][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/Idle/T_Runner_Sprite_0]
+[2024.08.19-14.43.01:575][853]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/Idle/T_Runner_Sprite_0
+[2024.08.19-14.43.01:575][853]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Runner_Sprite_044020F954EE1360B0769EDB3330110A1.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Idle/T_Runner_Sprite_0.uasset'
+[2024.08.19-14.43.01:575][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_9] ([1] browsable assets)...
+[2024.08.19-14.43.01:577][853]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Runner/Run/T_Runner_Sprite_9.T_Runner_Sprite_9]
+[2024.08.19-14.43.01:577][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_9]
+[2024.08.19-14.43.01:578][853]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_9
+[2024.08.19-14.43.01:578][853]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Runner_Sprite_9C69F0A5844DE8493CD14BA891305DD84.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Run/T_Runner_Sprite_9.uasset'
+[2024.08.19-14.43.01:578][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_8] ([1] browsable assets)...
+[2024.08.19-14.43.01:580][853]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Runner/Run/T_Runner_Sprite_8.T_Runner_Sprite_8]
+[2024.08.19-14.43.01:580][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_8]
+[2024.08.19-14.43.01:581][853]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_8
+[2024.08.19-14.43.01:582][853]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Runner_Sprite_87502E9914A9E965C4A6E949A0C5F4376.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Run/T_Runner_Sprite_8.uasset'
+[2024.08.19-14.43.01:582][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_7] ([1] browsable assets)...
+[2024.08.19-14.43.01:585][853]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Runner/Run/T_Runner_Sprite_7.T_Runner_Sprite_7]
+[2024.08.19-14.43.01:585][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_7]
+[2024.08.19-14.43.01:585][853]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_7
+[2024.08.19-14.43.01:586][853]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Runner_Sprite_7AB15EEF642D1927CEAFD68ACF8F7AB17.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Run/T_Runner_Sprite_7.uasset'
+[2024.08.19-14.43.01:586][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_6] ([1] browsable assets)...
+[2024.08.19-14.43.01:588][853]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Runner/Run/T_Runner_Sprite_6.T_Runner_Sprite_6]
+[2024.08.19-14.43.01:588][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_6]
+[2024.08.19-14.43.01:589][853]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_6
+[2024.08.19-14.43.01:590][853]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Runner_Sprite_6594A5EBD477860036ADA6193AD6C4D89.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Run/T_Runner_Sprite_6.uasset'
+[2024.08.19-14.43.01:590][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_5] ([1] browsable assets)...
+[2024.08.19-14.43.01:592][853]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Runner/Run/T_Runner_Sprite_5.T_Runner_Sprite_5]
+[2024.08.19-14.43.01:592][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_5]
+[2024.08.19-14.43.01:594][853]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_5
+[2024.08.19-14.43.01:594][853]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Runner_Sprite_573DC404F4DACF7DFDF0DE78C6A30B08E.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Run/T_Runner_Sprite_5.uasset'
+[2024.08.19-14.43.01:595][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_4] ([1] browsable assets)...
+[2024.08.19-14.43.01:597][853]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Runner/Run/T_Runner_Sprite_4.T_Runner_Sprite_4]
+[2024.08.19-14.43.01:597][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_4]
+[2024.08.19-14.43.01:598][853]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_4
+[2024.08.19-14.43.01:599][853]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Runner_Sprite_4DACB37B14B54A30D5890B397EFD402A0.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Run/T_Runner_Sprite_4.uasset'
+[2024.08.19-14.43.01:599][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_3] ([1] browsable assets)...
+[2024.08.19-14.43.01:601][853]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Runner/Run/T_Runner_Sprite_3.T_Runner_Sprite_3]
+[2024.08.19-14.43.01:601][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_3]
+[2024.08.19-14.43.01:602][853]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_3
+[2024.08.19-14.43.01:602][853]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Runner_Sprite_337A4D37644374B7243AA4AB407D4108E.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Run/T_Runner_Sprite_3.uasset'
+[2024.08.19-14.43.01:603][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_2] ([1] browsable assets)...
+[2024.08.19-14.43.01:604][853]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Runner/Run/T_Runner_Sprite_2.T_Runner_Sprite_2]
+[2024.08.19-14.43.01:604][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Runner/Run/T_Runner_Sprite_2]
+[2024.08.19-14.43.01:606][853]LogSavePackage: Moving output files for package: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_2
+[2024.08.19-14.43.01:606][853]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/T_Runner_Sprite_2B432D3CA484CD4CBD2439FB35263F6E1.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Run/T_Runner_Sprite_2.uasset'
+[2024.08.19-14.43.01:607][853]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Runner] ([2] browsable assets)...
+[2024.08.19-14.43.01:607][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Runner]
+[2024.08.19-14.43.01:607][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2024.08.19-14.43.01:609][853]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2024.08.19-14.43.01:609][853]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_RunnerABB101654E350C412AAAA8A049DEECF2.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Runner.uasset'
+[2024.08.19-14.43.01:614][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.262 ms (total: 1.09 sec)
+[2024.08.19-14.43.01:674][853]LogContentValidation: Display: Starting to validate 14 assets
+[2024.08.19-14.43.01:674][853]LogContentValidation: Enabled validators:
+[2024.08.19-14.43.01:674][853]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.19-14.43.01:674][853]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.19-14.43.01:674][853]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.19-14.43.01:674][853]LogContentValidation: Display: Validating asset /Game/PaperAssets/Background/T_Field_Sprite.T_Field_Sprite
+[2024.08.19-14.43.01:674][853]AssetCheck: /Game/PaperAssets/Background/T_Field_Sprite Validating asset
+[2024.08.19-14.43.01:674][853]LogContentValidation: Display: Validating asset /Game/PaperAssets/Goal/T_Goal_Ripped_Sprite.T_Goal_Ripped_Sprite
+[2024.08.19-14.43.01:674][853]AssetCheck: /Game/PaperAssets/Goal/T_Goal_Ripped_Sprite Validating asset
+[2024.08.19-14.43.01:674][853]LogContentValidation: Display: Validating asset /Game/PaperAssets/Goal/T_Goal_Connected_Sprite.T_Goal_Connected_Sprite
+[2024.08.19-14.43.01:674][853]AssetCheck: /Game/PaperAssets/Goal/T_Goal_Connected_Sprite Validating asset
+[2024.08.19-14.43.01:674][853]LogContentValidation: Display: Validating asset /Game/PaperAssets/Runner/Idle/T_Runner_Sprite_1.T_Runner_Sprite_1
+[2024.08.19-14.43.01:674][853]AssetCheck: /Game/PaperAssets/Runner/Idle/T_Runner_Sprite_1 Validating asset
+[2024.08.19-14.43.01:674][853]LogContentValidation: Display: Validating asset /Game/PaperAssets/Runner/Idle/T_Runner_Sprite_0.T_Runner_Sprite_0
+[2024.08.19-14.43.01:674][853]AssetCheck: /Game/PaperAssets/Runner/Idle/T_Runner_Sprite_0 Validating asset
+[2024.08.19-14.43.01:674][853]LogContentValidation: Display: Validating asset /Game/PaperAssets/Runner/Run/T_Runner_Sprite_9.T_Runner_Sprite_9
+[2024.08.19-14.43.01:674][853]AssetCheck: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_9 Validating asset
+[2024.08.19-14.43.01:674][853]LogContentValidation: Display: Validating asset /Game/PaperAssets/Runner/Run/T_Runner_Sprite_8.T_Runner_Sprite_8
+[2024.08.19-14.43.01:674][853]AssetCheck: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_8 Validating asset
+[2024.08.19-14.43.01:674][853]LogContentValidation: Display: Validating asset /Game/PaperAssets/Runner/Run/T_Runner_Sprite_7.T_Runner_Sprite_7
+[2024.08.19-14.43.01:674][853]AssetCheck: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_7 Validating asset
+[2024.08.19-14.43.01:674][853]LogContentValidation: Display: Validating asset /Game/PaperAssets/Runner/Run/T_Runner_Sprite_6.T_Runner_Sprite_6
+[2024.08.19-14.43.01:674][853]AssetCheck: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_6 Validating asset
+[2024.08.19-14.43.01:674][853]LogContentValidation: Display: Validating asset /Game/PaperAssets/Runner/Run/T_Runner_Sprite_5.T_Runner_Sprite_5
+[2024.08.19-14.43.01:674][853]AssetCheck: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_5 Validating asset
+[2024.08.19-14.43.01:674][853]LogContentValidation: Display: Validating asset /Game/PaperAssets/Runner/Run/T_Runner_Sprite_4.T_Runner_Sprite_4
+[2024.08.19-14.43.01:674][853]AssetCheck: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_4 Validating asset
+[2024.08.19-14.43.01:674][853]LogContentValidation: Display: Validating asset /Game/PaperAssets/Runner/Run/T_Runner_Sprite_3.T_Runner_Sprite_3
+[2024.08.19-14.43.01:674][853]AssetCheck: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_3 Validating asset
+[2024.08.19-14.43.01:674][853]LogContentValidation: Display: Validating asset /Game/PaperAssets/Runner/Run/T_Runner_Sprite_2.T_Runner_Sprite_2
+[2024.08.19-14.43.01:676][853]AssetCheck: /Game/PaperAssets/Runner/Run/T_Runner_Sprite_2 Validating asset
+[2024.08.19-14.43.01:676][853]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Runner.BP_Runner
+[2024.08.19-14.43.01:676][853]AssetCheck: /Game/Blueprints/BP_Runner Validating asset
+[2024.08.19-14.43.08:981][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.08.19-14.43.10:214][689]LogSlate: Window 'Delete Assets' being destroyed
+[2024.08.19-14.43.10:233][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.08.19-14.43.10:250][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.08.19-14.43.10:266][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.08.19-14.43.28:098][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.08.19-14.45.46:066][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.08.19-14.45.50:747][577]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.08.19-14.45.50:764][577]LogContentBrowser: Creating deferred item: NewFolder
+[2024.08.19-14.45.50:771][578]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.08.19-14.45.52:467][782]LogContentBrowser: Attempting asset rename: NewFolder -> Input
+[2024.08.19-14.45.52:467][782]LogContentBrowser: End creating deferred item NewFolder
+[2024.08.19-14.46.47:521][ 17]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.08.19-14.46.47:537][ 17]LogContentBrowser: Creating deferred item: NewFolder
+[2024.08.19-14.46.47:551][ 19]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.08.19-14.46.51:614][507]LogContentBrowser: Attempting asset rename: NewFolder -> Actions
+[2024.08.19-14.46.51:614][507]LogContentBrowser: End creating deferred item NewFolder
+[2024.08.19-14.47.47:279][621]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.08.19-14.47.47:284][621]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.08.19-14.47.47:302][623]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.08.19-14.47.56:915][777]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_PowerLeft
+[2024.08.19-14.47.56:916][777]LogContentBrowser: End creating deferred item NewInputAction
+[2024.08.19-14.48.02:183][319]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.08.19-14.48.02:189][319]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.08.19-14.48.02:196][320]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.08.19-14.48.09:532][201]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_PowerRight
+[2024.08.19-14.48.09:534][201]LogContentBrowser: End creating deferred item NewInputAction
+[2024.08.19-14.48.46:476][ 18]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2024.08.19-14.48.46:480][ 18]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2024.08.19-14.48.46:491][ 19]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2024.08.19-14.48.51:136][577]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_Runner
+[2024.08.19-14.48.51:137][577]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2024.08.19-14.49.11:252][915]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Runner.IMC_Runner
+[2024.08.19-14.50.14:973][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.08.19-14.50.14:975][274]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Debug' took 0.026
+[2024.08.19-14.50.14:975][274]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Runner] ([2] browsable assets)...
+[2024.08.19-14.50.14:975][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Runner]
+[2024.08.19-14.50.14:977][274]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Runner_Auto4
+[2024.08.19-14.50.14:977][274]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Runner_Auto45659E309436BBD6B2BFCEDB28E93C862.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/Autosaves/Game/Blueprints/BP_Runner_Auto4.uasset'
+[2024.08.19-14.50.14:978][274]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_PowerLeft] ([1] browsable assets)...
+[2024.08.19-14.50.14:978][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_PowerLeft]
+[2024.08.19-14.50.14:978][274]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_PowerLeft_Auto4
+[2024.08.19-14.50.14:978][274]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/IA_PowerLeft_Auto4F27F75CF4B17C05B0AE8CB86A7EFE72A.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/Autosaves/Game/Input/Actions/IA_PowerLeft_Auto4.uasset'
+[2024.08.19-14.50.14:978][274]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_PowerRight] ([1] browsable assets)...
+[2024.08.19-14.50.14:978][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_PowerRight]
+[2024.08.19-14.50.14:980][274]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_PowerRight_Auto4
+[2024.08.19-14.50.14:980][274]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/IA_PowerRight_Auto472B7B8B94C349EC2CDA909BA4FB6C2D8.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/Autosaves/Game/Input/Actions/IA_PowerRight_Auto4.uasset'
+[2024.08.19-14.50.14:980][274]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Runner] ([1] browsable assets)...
+[2024.08.19-14.50.14:980][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Runner]
+[2024.08.19-14.50.14:981][274]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/IMC_Runner_Auto4
+[2024.08.19-14.50.14:981][274]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/IMC_Runner_Auto4754F249943AF1BBDF8ACDC9C6740CC38.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/Autosaves/Game/Input/IMC_Runner_Auto4.uasset'
+[2024.08.19-14.50.14:981][274]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.08.19-14.51.17:194][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.19-14.51.17:242][924]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Runner] ([1] browsable assets)...
+[2024.08.19-14.51.17:242][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Runner]
+[2024.08.19-14.51.17:242][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Runner" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Input/IMC_Runner.uasset" SILENT=true
+[2024.08.19-14.51.17:244][924]LogSavePackage: Moving output files for package: /Game/Input/IMC_Runner
+[2024.08.19-14.51.17:244][924]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/IMC_Runner806B2B2B4043DCEF40363EBCF2E4322F.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Input/IMC_Runner.uasset'
+[2024.08.19-14.51.17:278][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.226 ms (total: 1.17 sec)
+[2024.08.19-14.51.17:326][924]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.19-14.51.17:326][924]LogContentValidation: Enabled validators:
+[2024.08.19-14.51.17:326][924]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.19-14.51.17:326][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.19-14.51.17:326][924]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.19-14.51.17:326][924]LogContentValidation: Display: Validating asset /Game/Input/IMC_Runner.IMC_Runner
+[2024.08.19-14.51.17:326][924]AssetCheck: /Game/Input/IMC_Runner Validating asset
+[2024.08.19-14.51.49:912][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.08.19-14.57.05:278][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.08.19-14.57.08:017][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.19-14.57.08:071][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Runner] ([2] browsable assets)...
+[2024.08.19-14.57.08:071][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Runner]
+[2024.08.19-14.57.08:071][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2024.08.19-14.57.08:085][651]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2024.08.19-14.57.08:085][651]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_RunnerBA79396440CDFA08CEA61FA371CF551B.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Runner.uasset'
+[2024.08.19-14.57.08:091][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.504 ms (total: 1.25 sec)
+[2024.08.19-14.57.08:137][651]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.19-14.57.08:137][651]LogContentValidation: Enabled validators:
+[2024.08.19-14.57.08:137][651]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.19-14.57.08:137][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.19-14.57.08:137][651]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.19-14.57.08:137][651]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Runner.BP_Runner
+[2024.08.19-14.57.08:137][651]AssetCheck: /Game/Blueprints/BP_Runner Validating asset
+[2024.08.19-14.57.36:015][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.08.19-14.57.36:019][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.19-14.57.36:065][828]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_PowerLeft] ([1] browsable assets)...
+[2024.08.19-14.57.36:065][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_PowerLeft]
+[2024.08.19-14.57.36:065][828]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_PowerLeft
+[2024.08.19-14.57.36:065][828]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/IA_PowerLeft2BF6B93644451A5E9DC2338DBD6B1F9C.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Input/Actions/IA_PowerLeft.uasset'
+[2024.08.19-14.57.36:068][828]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_PowerRight] ([1] browsable assets)...
+[2024.08.19-14.57.36:068][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_PowerRight]
+[2024.08.19-14.57.36:068][828]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_PowerRight
+[2024.08.19-14.57.36:068][828]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/IA_PowerRightCB6BE44F4666A77850C89FA30499EE9A.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Input/Actions/IA_PowerRight.uasset'
+[2024.08.19-14.57.36:104][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.706 ms (total: 1.33 sec)
+[2024.08.19-14.57.36:163][828]LogContentValidation: Display: Starting to validate 2 assets
+[2024.08.19-14.57.36:163][828]LogContentValidation: Enabled validators:
+[2024.08.19-14.57.36:163][828]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.19-14.57.36:163][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.19-14.57.36:163][828]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.19-14.57.36:163][828]LogContentValidation: Display: Validating asset /Game/Input/Actions/IA_PowerLeft.IA_PowerLeft
+[2024.08.19-14.57.36:163][828]AssetCheck: /Game/Input/Actions/IA_PowerLeft Validating asset
+[2024.08.19-14.57.36:164][828]LogContentValidation: Display: Validating asset /Game/Input/Actions/IA_PowerRight.IA_PowerRight
+[2024.08.19-14.57.36:164][828]AssetCheck: /Game/Input/Actions/IA_PowerRight Validating asset
+[2024.08.19-14.58.21:414][669]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_PowerLeft.IA_PowerLeft
+[2024.08.19-14.58.23:016][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.19-14.58.23:076][852]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_PowerLeft] ([1] browsable assets)...
+[2024.08.19-14.58.23:076][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_PowerLeft]
+[2024.08.19-14.58.23:078][852]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_PowerLeft
+[2024.08.19-14.58.23:078][852]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/IA_PowerLeftF05E8756414C9C4FFD4DBEA6AB500362.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Input/Actions/IA_PowerLeft.uasset'
+[2024.08.19-14.58.23:111][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.360 ms (total: 1.42 sec)
+[2024.08.19-14.58.23:160][852]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.19-14.58.23:160][852]LogContentValidation: Enabled validators:
+[2024.08.19-14.58.23:160][852]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.19-14.58.23:160][852]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.19-14.58.23:160][852]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.19-14.58.23:160][852]LogContentValidation: Display: Validating asset /Game/Input/Actions/IA_PowerLeft.IA_PowerLeft
+[2024.08.19-14.58.23:160][852]AssetCheck: /Game/Input/Actions/IA_PowerLeft Validating asset
+[2024.08.19-14.58.23:738][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.19-14.58.23:794][921]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_PowerLeft] ([1] browsable assets)...
+[2024.08.19-14.58.23:794][921]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_PowerLeft]
+[2024.08.19-14.58.23:795][921]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_PowerLeft
+[2024.08.19-14.58.23:795][921]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/IA_PowerLeft111DB3D940BFF71BD851E782A08438A4.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Input/Actions/IA_PowerLeft.uasset'
+[2024.08.19-14.58.23:830][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.727 ms (total: 1.52 sec)
+[2024.08.19-14.58.23:876][921]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.19-14.58.23:877][921]LogContentValidation: Enabled validators:
+[2024.08.19-14.58.23:877][921]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.19-14.58.23:877][921]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.19-14.58.23:877][921]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.19-14.58.23:877][921]LogContentValidation: Display: Validating asset /Game/Input/Actions/IA_PowerLeft.IA_PowerLeft
+[2024.08.19-14.58.23:877][921]AssetCheck: /Game/Input/Actions/IA_PowerLeft Validating asset
+[2024.08.19-14.58.30:756][728]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_PowerRight.IA_PowerRight
+[2024.08.19-14.58.32:497][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.19-14.58.32:552][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_PowerRight] ([1] browsable assets)...
+[2024.08.19-14.58.32:552][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_PowerRight]
+[2024.08.19-14.58.32:553][923]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_PowerRight
+[2024.08.19-14.58.32:553][923]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/IA_PowerRight2C5035E84574B09A669C42A139CE001C.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Input/Actions/IA_PowerRight.uasset'
+[2024.08.19-14.58.32:558][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.096 ms (total: 1.58 sec)
+[2024.08.19-14.58.32:619][923]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.19-14.58.32:620][923]LogContentValidation: Enabled validators:
+[2024.08.19-14.58.32:620][923]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.19-14.58.32:620][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.19-14.58.32:620][923]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.19-14.58.32:620][923]LogContentValidation: Display: Validating asset /Game/Input/Actions/IA_PowerRight.IA_PowerRight
+[2024.08.19-14.58.32:620][923]AssetCheck: /Game/Input/Actions/IA_PowerRight Validating asset
+[2024.08.19-14.58.36:850][409]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.08.19-14.58.36:850][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.19-14.58.36:892][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.08.19-14.58.39:331][686]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Runner.IMC_Runner
+[2024.08.19-14.58.40:588][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.19-14.58.40:644][828]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Runner] ([1] browsable assets)...
+[2024.08.19-14.58.40:644][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Runner]
+[2024.08.19-14.58.40:644][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Runner" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Input/IMC_Runner.uasset" SILENT=true
+[2024.08.19-14.58.40:645][828]LogSavePackage: Moving output files for package: /Game/Input/IMC_Runner
+[2024.08.19-14.58.40:645][828]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/IMC_Runner6D27569042BA30DF77A943B19CB31F26.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Input/IMC_Runner.uasset'
+[2024.08.19-14.58.40:668][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.242 ms (total: 1.66 sec)
+[2024.08.19-14.58.40:726][828]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.19-14.58.40:726][828]LogContentValidation: Enabled validators:
+[2024.08.19-14.58.40:726][828]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.19-14.58.40:726][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.19-14.58.40:726][828]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.19-14.58.40:726][828]LogContentValidation: Display: Validating asset /Game/Input/IMC_Runner.IMC_Runner
+[2024.08.19-14.58.40:727][828]AssetCheck: /Game/Input/IMC_Runner Validating asset
+[2024.08.19-14.59.08:838][344]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Runner.BP_Runner
+[2024.08.19-15.00.21:362][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.08.19-15.00.21:364][238]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Debug' took 0.019
+[2024.08.19-15.00.21:364][238]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Runner] ([2] browsable assets)...
+[2024.08.19-15.00.21:364][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Runner]
+[2024.08.19-15.00.21:367][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Runner_Auto5
+[2024.08.19-15.00.21:367][238]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Runner_Auto56A6FE01B41627C236CBCF09A5A33E31D.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/Autosaves/Game/Blueprints/BP_Runner_Auto5.uasset'
+[2024.08.19-15.00.21:368][238]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.08.19-15.01.02:975][860]LogDerivedDataCache: C:/Users/gabri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.08.19-15.07.03:287][761]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.19-15.07.03:305][761]LogAutomationController: Ignoring very large delta of 2.33 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.08.19-15.07.04:867][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.08.19-15.07.07:922][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.08.19-15.07.10:975][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.08.19-15.07.10:989][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.19-15.07.11:045][629]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Runner] ([2] browsable assets)...
+[2024.08.19-15.07.11:045][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Runner]
+[2024.08.19-15.07.11:045][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2024.08.19-15.07.11:050][629]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2024.08.19-15.07.11:050][629]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Runner120B2DF5472CF0DBFFDD66A306E8793A.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Runner.uasset'
+[2024.08.19-15.07.11:084][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.461 ms (total: 1.75 sec)
+[2024.08.19-15.07.11:128][629]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.19-15.07.11:128][629]LogContentValidation: Enabled validators:
+[2024.08.19-15.07.11:128][629]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.19-15.07.11:128][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.19-15.07.11:128][629]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.19-15.07.11:128][629]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Runner.BP_Runner
+[2024.08.19-15.07.11:128][629]AssetCheck: /Game/Blueprints/BP_Runner Validating asset
+[2024.08.19-15.07.12:845][823]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.19-15.07.12:880][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.19-15.07.12:884][823]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.08.19-15.07.12:884][823]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.08.19-15.07.12:884][823]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.08.19-15.07.12:886][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002348s)
+[2024.08.19-15.07.12:886][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.002393s)
+[2024.08.19-15.07.12:902][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.08.19-15.07.12:904][823]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.08.19-15.07.12:905][823]LogPlayLevel: PIE: World Init took: (0.000999s)
+[2024.08.19-15.07.12:914][823]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.08.19-15.07.12:914][823]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.19-15.07.12:914][823]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.19-15.07.12:914][823]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.19-15.07.12:914][823]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.19-15.07.12:914][823]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.19-15.07.12:914][823]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.19-15.07.12:914][823]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.19-15.07.12:914][823]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.19-15.07.12:914][823]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.19-15.07.12:914][823]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.19-15.07.12:914][823]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.19-15.07.12:915][823]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.19-15.07.12:944][823]LogAudioMixer: Display: Using Audio Hardware Device Headphones (LE_WH-1000XM3)
+[2024.08.19-15.07.12:945][823]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.19-15.07.12:945][823]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.19-15.07.12:945][823]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.19-15.07.12:945][823]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.08.19-15.07.12:945][823]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.08.19-15.07.12:946][823]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.08.19-15.07.12:946][823]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.08.19-15.07.12:946][823]LogInit: FAudioDevice initialized with ID 2.
+[2024.08.19-15.07.12:946][823]LogAudio: Display: Audio Device (ID: 2) registered with world 'MAP_Debug'.
+[2024.08.19-15.07.12:947][823]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.08.19-15.07.12:954][823]LogLoad: Game class is 'GameModeBase'
+[2024.08.19-15.07.12:955][823]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.08.19-12.07.12
+[2024.08.19-15.07.12:955][823]LogWorld: Bringing up level for play took: 0.000794
+[2024.08.19-15.07.12:957][823]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.08.19-15.07.12:972][823]PIE: Server logged in
+[2024.08.19-15.07.12:974][823]PIE: Play in editor total start time 0.124 seconds.
+[2024.08.19-15.07.23:004][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.19-15.07.23:004][  5]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.08.19-15.07.23:004][  5]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.08.19-15.07.23:005][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.19-15.07.23:005][  5]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.08.19-15.07.23:005][  5]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.08.19-15.07.23:007][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.19-15.07.23:012][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.19-15.07.23:028][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.19-15.07.23:028][  5]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.08.19-15.07.23:028][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.08.19-15.07.23:031][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.08.19-15.07.23:036][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.08.19-15.07.23:073][  6]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.08.19-15.07.24:633][190]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.19-15.07.24:668][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.19-15.07.24:705][190]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.08.19-15.07.24:706][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001207s)
+[2024.08.19-15.07.24:706][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001237s)
+[2024.08.19-15.07.24:720][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.08.19-15.07.24:721][190]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.08.19-15.07.24:722][190]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2024.08.19-15.07.24:729][190]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.08.19-15.07.24:729][190]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.19-15.07.24:729][190]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.19-15.07.24:729][190]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.19-15.07.24:729][190]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.19-15.07.24:729][190]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.19-15.07.24:729][190]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.19-15.07.24:729][190]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.19-15.07.24:729][190]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.19-15.07.24:729][190]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.19-15.07.24:729][190]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.19-15.07.24:729][190]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.19-15.07.24:731][190]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.19-15.07.24:758][190]LogAudioMixer: Display: Using Audio Hardware Device Headphones (LE_WH-1000XM3)
+[2024.08.19-15.07.24:759][190]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.19-15.07.24:759][190]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.19-15.07.24:759][190]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.19-15.07.24:759][190]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.08.19-15.07.24:759][190]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.08.19-15.07.24:760][190]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.08.19-15.07.24:760][190]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.08.19-15.07.24:760][190]LogInit: FAudioDevice initialized with ID 3.
+[2024.08.19-15.07.24:760][190]LogAudio: Display: Audio Device (ID: 3) registered with world 'MAP_Debug'.
+[2024.08.19-15.07.24:760][190]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.08.19-15.07.24:762][190]LogLoad: Game class is 'GameModeBase'
+[2024.08.19-15.07.24:763][190]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.08.19-12.07.24
+[2024.08.19-15.07.24:764][190]LogWorld: Bringing up level for play took: 0.000548
+[2024.08.19-15.07.24:765][190]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.08.19-15.07.24:773][190]PIE: Server logged in
+[2024.08.19-15.07.24:773][190]PIE: Play in editor total start time 0.137 seconds.
+[2024.08.19-15.07.29:939][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.19-15.07.29:939][792]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.08.19-15.07.29:940][792]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.08.19-15.07.29:940][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.19-15.07.29:940][792]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.08.19-15.07.29:940][792]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.08.19-15.07.29:942][792]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.19-15.07.29:948][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.19-15.07.29:964][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.19-15.07.29:964][792]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.08.19-15.07.29:964][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.08.19-15.07.29:966][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.08.19-15.07.29:971][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.08.19-15.07.30:007][793]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.08.19-15.08.00:650][633]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Runner.BP_Runner_C
+[2024.08.19-15.08.00:650][633]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Runner.BP_Runner_C
+[2024.08.19-15.08.00:651][633]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Runner.BP_Runner as actor: BP_Runner_C /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.BP_Runner_C_0
+[2024.08.19-15.08.00:651][633]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Runner.BP_Runner as actor: BP_Runner_C /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.BP_Runner_C_0
+[2024.08.19-15.08.00:652][633]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.08.19-15.08.03:732][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.08.19-15.08.03:733][996]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2024.08.19-15.08.03:737][996]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Runner.BP_Runner_C
+[2024.08.19-15.08.03:737][996]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Runner.BP_Runner_C
+[2024.08.19-15.08.03:740][996]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Runner.BP_Runner as actor: BP_Runner_C /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.BP_Runner_C_1
+[2024.08.19-15.08.03:740][996]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Runner.BP_Runner as actor: BP_Runner_C /Game/Maps/MAP_Debug.MAP_Debug:PersistentLevel.BP_Runner_C_1
+[2024.08.19-15.08.36:710][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.08.19-15.08.36:714][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.19-15.08.36:787][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.08.19-15.08.36:793][421]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Debug
+[2024.08.19-15.08.36:794][421]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/MAP_Debug2D4EADFF460EC7A5ECB9759734D2D813.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Maps/MAP_Debug.umap'
+[2024.08.19-15.08.36:800][421]LogFileHelpers: Saving map 'MAP_Debug' took 0.037
+[2024.08.19-15.08.36:816][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.009 ms (total: 1.85 sec)
+[2024.08.19-15.08.36:879][421]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.19-15.08.36:879][421]LogContentValidation: Enabled validators:
+[2024.08.19-15.08.36:879][421]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.19-15.08.36:879][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.19-15.08.36:879][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.19-15.08.36:879][421]LogContentValidation: Display: Validating asset /Game/Maps/MAP_Debug.MAP_Debug
+[2024.08.19-15.08.36:879][421]AssetCheck: /Game/Maps/MAP_Debug Validating asset
