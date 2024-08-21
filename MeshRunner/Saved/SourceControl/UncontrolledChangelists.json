@@ -7,10 +7,7 @@
 			"files": [
 				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Maps/GamePlay.umap",
 				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Maps/MAP_Debug.umap",
-				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/FB_Runner_Idle.uasset",
-				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/FB_Runner_Run.uasset",
 				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Idle/FB_Runner_Idle.uasset",
-				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Idle/FB_Runner_Run.uasset",
 				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Run/T_Runner_Sprite_2.uasset",
 				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Run/T_Runner_Sprite_3.uasset",
 				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Run/T_Runner_Sprite_4.uasset",
@@ -29,11 +26,15 @@
 				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Background/T_Field_Sprite.uasset",
 				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Goal/T_Goal_Ripped_Sprite.uasset",
 				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Goal/T_Goal_Connected_Sprite.uasset",
-				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/T_Runner_Sprite.uasset",
 				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Runner.uasset",
 				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Input/IMC_Runner.uasset",
 				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Input/Actions/IA_PowerLeft.uasset",
-				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Input/Actions/IA_PowerRight.uasset"
+				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Input/Actions/IA_PowerRight.uasset",
+				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/GM_Runner.uasset",
+				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/FB_Runner_Idle.uasset",
+				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/FB_Runner_Run.uasset",
+				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/Idle/FB_Runner_Run.uasset",
+				"D:/Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/PaperAssets/Runner/T_Runner_Sprite.uasset"
 			]
 		}
 	]
