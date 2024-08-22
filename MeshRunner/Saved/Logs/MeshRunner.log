@@ -6549,3 +6549,128 @@ Script Stack (0 frames) :
 [2024.08.22-14.25.20:836][464]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.08.22-14.25.20:836][464]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Runner.BP_Runner
 [2024.08.22-14.25.20:836][464]AssetCheck: /Game/Blueprints/BP_Runner Validating asset
+[2024.08.22-14.33.30:896][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.08.22-14.33.30:930][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-14.33.30:983][430]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Runner] ([2] browsable assets)...
+[2024.08.22-14.33.30:983][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Runner]
+[2024.08.22-14.33.30:983][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2024.08.22-14.33.31:006][430]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2024.08.22-14.33.31:006][430]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Runner2C01E86448839691089490A307508DBF.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Runner.uasset'
+[2024.08.22-14.33.31:013][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.252 ms (total: 4.40 sec)
+[2024.08.22-14.33.31:049][430]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-14.33.31:049][430]LogContentValidation: Enabled validators:
+[2024.08.22-14.33.31:049][430]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-14.33.31:049][430]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-14.33.31:049][430]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-14.33.31:049][430]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Runner.BP_Runner
+[2024.08.22-14.33.31:049][430]AssetCheck: /Game/Blueprints/BP_Runner Validating asset
+[2024.08.22-14.35.09:041][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.08.22-14.35.09:070][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-14.35.09:114][626]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Runner] ([2] browsable assets)...
+[2024.08.22-14.35.09:114][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Runner]
+[2024.08.22-14.35.09:114][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2024.08.22-14.35.09:136][626]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2024.08.22-14.35.09:136][626]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Runner813BDB224E74C1EDA21F8BA981BF7108.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Runner.uasset'
+[2024.08.22-14.35.09:172][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.747 ms (total: 4.50 sec)
+[2024.08.22-14.35.09:229][626]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-14.35.09:229][626]LogContentValidation: Enabled validators:
+[2024.08.22-14.35.09:229][626]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-14.35.09:230][626]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-14.35.09:230][626]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-14.35.09:230][626]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Runner.BP_Runner
+[2024.08.22-14.35.09:230][626]AssetCheck: /Game/Blueprints/BP_Runner Validating asset
+[2024.08.22-14.37.45:127][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.08.22-14.37.45:158][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-14.37.45:216][166]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Runner] ([2] browsable assets)...
+[2024.08.22-14.37.45:216][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Runner]
+[2024.08.22-14.37.45:216][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2024.08.22-14.37.45:239][166]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2024.08.22-14.37.45:239][166]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_RunnerE4E8E28E423772AE3A31769423CA824B.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Runner.uasset'
+[2024.08.22-14.37.45:275][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.968 ms (total: 4.62 sec)
+[2024.08.22-14.37.45:333][166]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-14.37.45:333][166]LogContentValidation: Enabled validators:
+[2024.08.22-14.37.45:333][166]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-14.37.45:333][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-14.37.45:333][166]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-14.37.45:333][166]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Runner.BP_Runner
+[2024.08.22-14.37.45:333][166]AssetCheck: /Game/Blueprints/BP_Runner Validating asset
+[2024.08.22-14.38.59:465][649]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.22-14.38.59:503][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.22-14.38.59:525][649]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.08.22-14.38.59:526][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001252s)
+[2024.08.22-14.38.59:526][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Debug.MAP_Debug to /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug (0.001284s)
+[2024.08.22-14.38.59:543][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.08.22-14.38.59:546][649]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.08.22-14.38.59:547][649]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2024.08.22-14.38.59:554][649]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.08.22-14.38.59:555][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.22-14.38.59:555][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.22-14.38.59:555][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.22-14.38.59:555][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.22-14.38.59:555][649]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.22-14.38.59:555][649]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.22-14.38.59:555][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.22-14.38.59:555][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.22-14.38.59:555][649]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.22-14.38.59:555][649]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.22-14.38.59:555][649]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.22-14.38.59:556][649]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.22-14.38.59:585][649]LogAudioMixer: Display: Using Audio Hardware Device Headphones (LE_WH-1000XM3)
+[2024.08.22-14.38.59:585][649]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.22-14.38.59:585][649]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.22-14.38.59:585][649]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.22-14.38.59:585][649]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.08.22-14.38.59:585][649]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.08.22-14.38.59:587][649]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.08.22-14.38.59:587][649]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.08.22-14.38.59:587][649]LogInit: FAudioDevice initialized with ID 12.
+[2024.08.22-14.38.59:587][649]LogAudio: Display: Audio Device (ID: 12) registered with world 'MAP_Debug'.
+[2024.08.22-14.38.59:587][649]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.08.22-14.38.59:590][649]LogLoad: Game class is 'GM_Runner_C'
+[2024.08.22-14.38.59:590][649]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Debug.MAP_Debug up for play (max tick rate 0) at 2024.08.22-11.38.59
+[2024.08.22-14.38.59:590][649]LogWorld: Bringing up level for play took: 0.000523
+[2024.08.22-14.38.59:592][649]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.08.22-14.38.59:600][649]PIE: Server logged in
+[2024.08.22-14.38.59:600][649]PIE: Play in editor total start time 0.131 seconds.
+[2024.08.22-14.39.10:945][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.22-14.39.10:945][989]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Debug
+[2024.08.22-14.39.10:945][989]LogWorld: UWorld::CleanupWorld for MAP_Debug, bSessionEnded=true, bCleanupResources=true
+[2024.08.22-14.39.10:946][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.22-14.39.10:946][989]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.08.22-14.39.10:946][989]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.08.22-14.39.10:948][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.22-14.39.10:953][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.22-14.39.10:970][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.22-14.39.10:970][989]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.08.22-14.39.10:970][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.08.22-14.39.10:971][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.08.22-14.39.10:977][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.08.22-14.39.11:047][990]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.08.22-14.40.30:297][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.08.22-14.40.30:303][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-14.40.30:366][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/Footsteps/S_Step_1] ([1] browsable assets)...
+[2024.08.22-14.40.30:367][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Footsteps/S_Step_1]
+[2024.08.22-14.40.30:367][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Footsteps/S_Step_1" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Sounds/Footsteps/S_Step_1.uasset" SILENT=true
+[2024.08.22-14.40.30:368][ 53]LogSavePackage: Moving output files for package: /Game/Sounds/Footsteps/S_Step_1
+[2024.08.22-14.40.30:368][ 53]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/S_Step_14D64D32841F14217B33D25833AC6C7A9.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Sounds/Footsteps/S_Step_1.uasset'
+[2024.08.22-14.40.30:372][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/Footsteps/S_Step_2] ([1] browsable assets)...
+[2024.08.22-14.40.30:373][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Footsteps/S_Step_2]
+[2024.08.22-14.40.30:373][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Footsteps/S_Step_2" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Sounds/Footsteps/S_Step_2.uasset" SILENT=true
+[2024.08.22-14.40.30:373][ 53]LogSavePackage: Moving output files for package: /Game/Sounds/Footsteps/S_Step_2
+[2024.08.22-14.40.30:373][ 53]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/S_Step_2B269A4F94E5945E0A59879B8D5185520.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Sounds/Footsteps/S_Step_2.uasset'
+[2024.08.22-14.40.30:374][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/Footsteps/Cue_Footstep] ([1] browsable assets)...
+[2024.08.22-14.40.30:374][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Footsteps/Cue_Footstep]
+[2024.08.22-14.40.30:376][ 53]LogSavePackage: Moving output files for package: /Game/Sounds/Footsteps/Cue_Footstep
+[2024.08.22-14.40.30:376][ 53]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/Cue_Footstep30BE79B94995C609482D1E8EED382824.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Sounds/Footsteps/Cue_Footstep.uasset'
+[2024.08.22-14.40.30:414][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.396 ms (total: 4.73 sec)
+[2024.08.22-14.40.30:478][ 53]LogContentValidation: Display: Starting to validate 3 assets
+[2024.08.22-14.40.30:478][ 53]LogContentValidation: Enabled validators:
+[2024.08.22-14.40.30:478][ 53]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-14.40.30:478][ 53]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-14.40.30:478][ 53]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-14.40.30:478][ 53]LogContentValidation: Display: Validating asset /Game/Sounds/Footsteps/S_Step_1.S_Step_1
+[2024.08.22-14.40.30:478][ 53]AssetCheck: /Game/Sounds/Footsteps/S_Step_1 Validating asset
+[2024.08.22-14.40.30:478][ 53]LogContentValidation: Display: Validating asset /Game/Sounds/Footsteps/S_Step_2.S_Step_2
+[2024.08.22-14.40.30:478][ 53]AssetCheck: /Game/Sounds/Footsteps/S_Step_2 Validating asset
+[2024.08.22-14.40.30:478][ 53]LogContentValidation: Display: Validating asset /Game/Sounds/Footsteps/Cue_Footstep.Cue_Footstep
+[2024.08.22-14.40.30:478][ 53]AssetCheck: /Game/Sounds/Footsteps/Cue_Footstep Validating asset
