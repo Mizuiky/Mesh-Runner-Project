@@ -6881,3 +6881,551 @@ Script Stack (0 frames) :
 [2024.08.22-15.09.16:516][725]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.08.22-15.09.16:516][725]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
 [2024.08.22-15.09.16:516][725]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.11.20:299][130]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Field.BP_Field_C
+[2024.08.22-15.11.20:299][130]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Field.BP_Field_C
+[2024.08.22-15.11.20:302][130]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Field.BP_Field as actor: BP_Field_C /Game/Maps/MAP_Field.MAP_Field:PersistentLevel.BP_Field_C_0
+[2024.08.22-15.11.20:305][130]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Field.BP_Field as actor: BP_Field_C /Game/Maps/MAP_Field.MAP_Field:PersistentLevel.BP_Field_C_0
+[2024.08.22-15.11.20:314][131]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.08.22-15.11.22:106][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.08.22-15.11.22:108][339]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2024.08.22-15.11.22:112][339]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Field.BP_Field_C
+[2024.08.22-15.11.22:112][339]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Field.BP_Field_C
+[2024.08.22-15.11.22:117][339]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Field.BP_Field as actor: BP_Field_C /Game/Maps/MAP_Field.MAP_Field:PersistentLevel.BP_Field_C_1
+[2024.08.22-15.11.22:120][339]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Field.BP_Field as actor: BP_Field_C /Game/Maps/MAP_Field.MAP_Field:PersistentLevel.BP_Field_C_1
+[2024.08.22-15.12.39:031][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.08.22-15.12.39:035][724]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/MAP_Field_Auto0
+[2024.08.22-15.12.39:035][724]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/MAP_Field_Auto0AA4C8EE344E4AFB82BECE8BE78E58090.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/Autosaves/Game/Maps/MAP_Field_Auto0.umap'
+[2024.08.22-15.12.39:036][724]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/Autosaves/Game/Maps/MAP_Field_Auto0.umap is in the /Temp path, will not scan.
+[2024.08.22-15.12.39:036][724]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/MAP_Field_Auto0 is in the /Temp path, will not scan.
+[2024.08.22-15.12.39:036][724]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/MAP_Field_Auto0 is in the /Temp path, will not scan.
+[2024.08.22-15.12.39:036][724]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Field' took 0.021
+[2024.08.22-15.12.39:036][724]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2024.08.22-15.14.38:685][601]LogEditorTransaction: Undo Set Vector Property
+[2024.08.22-15.16.04:470][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.08.22-15.16.04:486][460]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.16.04:534][460]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.16.04:534][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.16.04:534][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.16.04:539][460]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.16.04:539][460]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Field470E60B74272DBA767D62D9B88D7FCC4.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.16.04:574][460]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.995 ms (total: 5.30 sec)
+[2024.08.22-15.16.04:649][460]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.16.04:649][460]LogContentValidation: Enabled validators:
+[2024.08.22-15.16.04:649][460]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.16.04:649][460]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.16.04:649][460]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.16.04:649][460]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.16.04:649][460]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.19.34:131][114]LogDerivedDataCache: C:/Users/gabri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.08.22-15.22.39:505][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.08.22-15.22.39:511][ 71]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/MAP_Field_Auto1
+[2024.08.22-15.22.39:511][ 71]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/MAP_Field_Auto10E3BC7394A39EB65CA6EB5A2837A5BDF.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/Autosaves/Game/Maps/MAP_Field_Auto1.umap'
+[2024.08.22-15.22.39:511][ 71]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/Autosaves/Game/Maps/MAP_Field_Auto1.umap is in the /Temp path, will not scan.
+[2024.08.22-15.22.39:511][ 71]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/MAP_Field_Auto1 is in the /Temp path, will not scan.
+[2024.08.22-15.22.39:511][ 71]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/MAP_Field_Auto1 is in the /Temp path, will not scan.
+[2024.08.22-15.22.39:511][ 71]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Field' took 0.024
+[2024.08.22-15.22.39:511][ 71]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2024.08.22-15.22.39:512][ 71]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.22.39:512][ 71]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.22.39:518][ 71]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Field_Auto1
+[2024.08.22-15.22.39:518][ 71]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Field_Auto166B5AFF043BC0AF6A390118623853C01.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/Autosaves/Game/Blueprints/BP_Field_Auto1.uasset'
+[2024.08.22-15.22.39:518][ 71]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.08.22-15.23.26:505][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.08.22-15.23.26:530][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.23.26:583][400]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.23.26:583][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.23.26:583][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.23.26:589][400]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.23.26:589][400]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Field18562EC24C24DC4A0339E2BA247099C4.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.23.26:595][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.115 ms (total: 5.37 sec)
+[2024.08.22-15.23.26:632][400]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.23.26:632][400]LogContentValidation: Enabled validators:
+[2024.08.22-15.23.26:632][400]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.23.26:632][400]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.23.26:632][400]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.23.26:632][400]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.23.26:632][400]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.23.45:294][489]LogEditorTransaction: Undo Set Vector Property
+[2024.08.22-15.24.08:653][151]LogEditorTransaction: Undo Set Vector Property
+[2024.08.22-15.24.18:609][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.08.22-15.24.18:635][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.24.18:684][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.24.18:684][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.24.18:684][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.24.18:690][235]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.24.18:690][235]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Field8B969371493658B62804978C8DCA19B9.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.24.18:726][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.380 ms (total: 5.46 sec)
+[2024.08.22-15.24.18:800][235]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.24.18:800][235]LogContentValidation: Enabled validators:
+[2024.08.22-15.24.18:800][235]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.24.18:800][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.24.18:800][235]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.24.18:800][235]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.24.18:800][235]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.25.01:500][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.08.22-15.25.01:520][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.25.01:576][179]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.25.01:576][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.25.01:576][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.25.01:582][179]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.25.01:582][179]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_FieldE053607F43279CE1A9EB618103D67F94.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.25.01:618][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.636 ms (total: 5.56 sec)
+[2024.08.22-15.25.01:659][179]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.25.01:659][179]LogContentValidation: Enabled validators:
+[2024.08.22-15.25.01:659][179]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.25.01:659][179]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.25.01:659][179]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.25.01:659][179]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.25.01:659][179]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.25.41:014][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.08.22-15.25.41:033][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.25.41:080][787]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.25.41:080][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.25.41:080][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.25.41:086][787]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.25.41:086][787]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_FieldFAA1EB5A4CFDC59C097F2C97CCEDA03E.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.25.41:093][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.510 ms (total: 5.62 sec)
+[2024.08.22-15.25.41:147][787]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.25.41:147][787]LogContentValidation: Enabled validators:
+[2024.08.22-15.25.41:147][787]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.25.41:147][787]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.25.41:147][787]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.25.41:147][787]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.25.41:147][787]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.27.01:533][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.08.22-15.27.01:552][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.27.01:610][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.27.01:610][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.27.01:610][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.27.01:616][407]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.27.01:617][407]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Field48F8DBBE4B4B5E8AC741198EEFC943A4.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.27.01:623][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.592 ms (total: 5.69 sec)
+[2024.08.22-15.27.01:676][407]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.27.01:676][407]LogContentValidation: Enabled validators:
+[2024.08.22-15.27.01:676][407]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.27.01:676][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.27.01:676][407]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.27.01:676][407]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.27.01:676][407]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.27.33:624][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.08.22-15.32.50:367][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.08.22-15.32.50:372][375]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/MAP_Field_Auto2
+[2024.08.22-15.32.50:372][375]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/MAP_Field_Auto2901DC7B543350E1AF8A33C8AFEB221E2.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/Autosaves/Game/Maps/MAP_Field_Auto2.umap'
+[2024.08.22-15.32.50:373][375]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/Autosaves/Game/Maps/MAP_Field_Auto2.umap is in the /Temp path, will not scan.
+[2024.08.22-15.32.50:373][375]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/MAP_Field_Auto2 is in the /Temp path, will not scan.
+[2024.08.22-15.32.50:373][375]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/MAP_Field_Auto2 is in the /Temp path, will not scan.
+[2024.08.22-15.32.50:373][375]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Field' took 0.023
+[2024.08.22-15.32.50:373][375]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.023
+[2024.08.22-15.32.50:373][375]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.32.50:373][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.32.50:380][375]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Field_Auto2
+[2024.08.22-15.32.50:380][375]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Field_Auto23DF89B8E4650A5E5B5A95B9B6E74804E.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/Autosaves/Game/Blueprints/BP_Field_Auto2.uasset'
+[2024.08.22-15.32.50:380][375]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.08.22-15.33.49:817][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.08.22-15.33.49:839][318]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.33.49:893][318]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.33.49:893][318]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.33.49:893][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.33.49:900][318]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.33.49:900][318]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_FieldE33B0E9848A29811AD3C2FA6F3EE807F.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.33.49:906][318]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.315 ms (total: 5.76 sec)
+[2024.08.22-15.33.49:958][318]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.33.49:958][318]LogContentValidation: Enabled validators:
+[2024.08.22-15.33.49:958][318]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.33.49:958][318]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.33.49:958][318]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.33.49:958][318]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.33.49:958][318]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.34.39:435][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.08.22-15.34.39:457][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.34.39:508][ 82]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.34.39:508][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.34.39:508][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.34.39:515][ 82]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.34.39:515][ 82]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Field0EA1B78F49A55DA1D3A6A8B97B5F6A45.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.34.39:549][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.203 ms (total: 5.85 sec)
+[2024.08.22-15.34.39:607][ 82]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.34.39:607][ 82]LogContentValidation: Enabled validators:
+[2024.08.22-15.34.39:607][ 82]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.34.39:607][ 82]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.34.39:607][ 82]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.34.39:607][ 82]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.34.39:607][ 82]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.34.54:436][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.08.22-15.36.14:152][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.08.22-15.36.14:178][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.36.14:234][117]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.36.14:234][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.36.14:234][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.36.14:241][117]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.36.14:241][117]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_FieldC7D09E0243095B5CEBD530A771117641.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.36.14:277][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.488 ms (total: 5.95 sec)
+[2024.08.22-15.36.14:333][117]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.36.14:333][117]LogContentValidation: Enabled validators:
+[2024.08.22-15.36.14:333][117]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.36.14:333][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.36.14:333][117]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.36.14:333][117]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.36.14:333][117]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.36.27:758][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.08.22-15.37.58:727][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.08.22-15.37.58:753][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.37.58:803][ 30]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.37.58:803][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.37.58:803][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.37.58:811][ 30]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.37.58:811][ 30]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_FieldE243D4A247189A52151D6AB18EAA043F.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.37.58:846][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.751 ms (total: 6.04 sec)
+[2024.08.22-15.37.58:885][ 30]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.37.58:885][ 30]LogContentValidation: Enabled validators:
+[2024.08.22-15.37.58:885][ 30]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.37.58:885][ 30]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.37.58:885][ 30]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.37.58:885][ 30]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.37.58:886][ 30]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.38.03:882][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.08.22-15.39.47:234][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.08.22-15.39.47:261][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.39.47:293][623]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.39.47:293][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.39.47:293][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.39.47:301][623]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.39.47:301][623]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Field000FF0FF4298D7D7ACC0D68C325966A8.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.39.47:336][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.354 ms (total: 6.12 sec)
+[2024.08.22-15.39.47:392][623]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.39.47:392][623]LogContentValidation: Enabled validators:
+[2024.08.22-15.39.47:392][623]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.39.47:392][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.39.47:392][623]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.39.47:392][623]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.39.47:393][623]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.42.50:922][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.08.22-15.42.50:927][549]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/MAP_Field_Auto3
+[2024.08.22-15.42.50:927][549]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/MAP_Field_Auto33978DBD2485AC0B1F130F68F90622007.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/Autosaves/Game/Maps/MAP_Field_Auto3.umap'
+[2024.08.22-15.42.50:927][549]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/Autosaves/Game/Maps/MAP_Field_Auto3.umap is in the /Temp path, will not scan.
+[2024.08.22-15.42.50:927][549]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/MAP_Field_Auto3 is in the /Temp path, will not scan.
+[2024.08.22-15.42.50:927][549]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/MAP_Field_Auto3 is in the /Temp path, will not scan.
+[2024.08.22-15.42.50:927][549]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Field' took 0.022
+[2024.08.22-15.42.50:927][549]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2024.08.22-15.42.50:927][549]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.42.50:927][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.42.50:937][549]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Field_Auto3
+[2024.08.22-15.42.50:937][549]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Field_Auto3E7E41E954B2DBD88592755B7F55ED6E2.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/Autosaves/Game/Blueprints/BP_Field_Auto3.uasset'
+[2024.08.22-15.42.50:937][549]LogFileHelpers: Auto-saving content packages took 0.010
+[2024.08.22-15.43.39:255][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.08.22-15.43.39:286][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.43.39:321][837]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.43.39:321][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.43.39:321][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.43.39:331][837]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.43.39:331][837]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Field0AC38A934788F83F3DE871A45CF6553D.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.43.39:368][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.591 ms (total: 6.20 sec)
+[2024.08.22-15.43.39:401][837]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.43.39:401][837]LogContentValidation: Enabled validators:
+[2024.08.22-15.43.39:401][837]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.43.39:401][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.43.39:401][837]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.43.39:401][837]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.43.39:402][837]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.44.40:187][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.08.22-15.44.40:220][231]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.44.40:278][231]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.44.40:278][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.44.40:278][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.44.40:288][231]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.44.40:288][231]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Field4BE07CC74264A9039FEAABAA1A07655A.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.44.40:354][231]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.567 ms (total: 6.33 sec)
+[2024.08.22-15.44.40:395][231]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.44.40:395][231]LogContentValidation: Enabled validators:
+[2024.08.22-15.44.40:395][231]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.44.40:395][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.44.40:395][231]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.44.40:395][231]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.44.40:395][231]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.45.09:276][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.08.22-15.45.43:692][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.08.22-15.45.43:697][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.45.43:788][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.08.22-15.45.43:792][703]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Field
+[2024.08.22-15.45.43:793][703]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/MAP_FieldAB0FC8424B995F4F2505DB83423F6FC7.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Maps/MAP_Field.umap'
+[2024.08.22-15.45.43:800][703]LogFileHelpers: Saving map 'MAP_Field' took 0.038
+[2024.08.22-15.45.43:804][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.161 ms (total: 6.44 sec)
+[2024.08.22-15.45.43:857][703]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.45.43:857][703]LogContentValidation: Enabled validators:
+[2024.08.22-15.45.43:857][703]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.45.43:857][703]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.45.43:857][703]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.45.43:857][703]LogContentValidation: Display: Validating asset /Game/Maps/MAP_Field.MAP_Field
+[2024.08.22-15.45.43:857][703]AssetCheck: /Game/Maps/MAP_Field Validating asset
+[2024.08.22-15.47.35:841][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.08.22-15.47.35:870][363]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.47.35:917][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.47.35:917][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.47.35:917][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.47.35:926][363]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.47.35:927][363]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_FieldC6F058B34D024DB1A776D89783D1F66F.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.47.35:962][363]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.294 ms (total: 6.53 sec)
+[2024.08.22-15.47.36:017][363]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.47.36:017][363]LogContentValidation: Enabled validators:
+[2024.08.22-15.47.36:017][363]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.47.36:017][363]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.47.36:017][363]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.47.36:017][363]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.47.36:017][363]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.49.06:062][299]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2024.08.22-15.49.06:062][299]LogScript: Warning: Script Msg called by: BP_Field_C /Engine/Transient.World_7:PersistentLevel.BP_Field_C_0
+[2024.08.22-15.49.06:063][299]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2024.08.22-15.49.06:063][299]LogScript: Warning: Script Msg called by: BP_Field_C /Game/Maps/MAP_Field.MAP_Field:PersistentLevel.BP_Field_C_1
+[2024.08.22-15.49.06:089][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.08.22-15.49.06:092][299]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2024.08.22-15.49.06:093][299]LogScript: Warning: Script Msg called by: BP_Field_C /Engine/Transient.World_7:PersistentLevel.BP_Field_C_0
+[2024.08.22-15.49.06:094][299]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2024.08.22-15.49.06:094][299]LogScript: Warning: Script Msg called by: BP_Field_C /Game/Maps/MAP_Field.MAP_Field:PersistentLevel.BP_Field_C_1
+[2024.08.22-15.49.06:116][299]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2024.08.22-15.49.06:116][299]LogScript: Warning: Script Msg called by: BP_Field_C /Engine/Transient.World_7:PersistentLevel.BP_Field_C_0
+[2024.08.22-15.49.06:118][299]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2024.08.22-15.49.06:118][299]LogScript: Warning: Script Msg called by: BP_Field_C /Game/Maps/MAP_Field.MAP_Field:PersistentLevel.BP_Field_C_1
+[2024.08.22-15.49.06:122][299]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.49.06:173][299]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.49.06:173][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.49.06:173][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.49.06:182][299]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.49.06:183][299]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_FieldE5E32123457336B721EC0EBC6659AFD4.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.49.06:217][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.142 ms (total: 6.62 sec)
+[2024.08.22-15.49.06:256][299]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.49.06:256][299]LogContentValidation: Enabled validators:
+[2024.08.22-15.49.06:256][299]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.49.06:256][299]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.49.06:256][299]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.49.06:256][299]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.49.06:256][299]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.49.07:249][406]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2024.08.22-15.49.07:249][406]LogScript: Warning: Script Msg called by: BP_Field_C /Engine/Transient.World_7:PersistentLevel.BP_Field_C_0
+[2024.08.22-15.50.47:759][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.08.22-15.50.47:789][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.50.47:839][467]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.50.47:840][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.50.47:840][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.50.47:849][467]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.50.47:849][467]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_FieldFAB093634CDD3A1938F254A138EFD483.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.50.47:884][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.529 ms (total: 6.72 sec)
+[2024.08.22-15.50.47:955][467]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.50.47:955][467]LogContentValidation: Enabled validators:
+[2024.08.22-15.50.47:955][467]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.50.47:955][467]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.50.47:955][467]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.50.47:955][467]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.50.47:955][467]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.52.18:111][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.08.22-15.52.18:142][595]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.52.18:193][595]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.52.18:193][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.52.18:193][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.52.18:203][595]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.52.18:203][595]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Field2334FCD945759F5A2CB00C8BC7E688DE.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.52.18:210][595]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.038 ms (total: 6.79 sec)
+[2024.08.22-15.52.18:277][595]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.52.18:277][595]LogContentValidation: Enabled validators:
+[2024.08.22-15.52.18:277][595]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.52.18:277][595]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.52.18:277][595]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.52.18:277][595]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.52.18:277][595]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.52.24:688][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.08.22-15.52.29:127][804]LogEditorTransaction: Undo Delete current selection
+[2024.08.22-15.52.30:230][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.08.22-15.52.42:862][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.08.22-15.52.42:895][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.52.42:951][314]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.52.42:951][314]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.52.42:951][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.52.42:960][314]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.52.42:960][314]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_FieldA86A3B1C488866BFDDBCA29D2D11A11A.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.52.42:987][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.079 ms (total: 6.88 sec)
+[2024.08.22-15.52.43:034][314]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.52.43:034][314]LogContentValidation: Enabled validators:
+[2024.08.22-15.52.43:034][314]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.52.43:034][314]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.52.43:034][314]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.52.43:034][314]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.52.43:034][314]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.53.18:970][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.08.22-15.53.19:002][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.53.19:054][894]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.53.19:054][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.53.19:054][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.53.19:063][894]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.53.19:063][894]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Field4945B80740D91E5CEDEC14B806081692.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.53.19:099][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.571 ms (total: 6.98 sec)
+[2024.08.22-15.53.19:153][894]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.53.19:153][894]LogContentValidation: Enabled validators:
+[2024.08.22-15.53.19:153][894]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.53.19:153][894]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.53.19:153][894]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.53.19:153][894]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.53.19:153][894]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.53.26:287][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.08.22-15.53.26:318][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.53.26:379][698]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.53.26:379][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.53.26:379][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.53.26:389][698]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.53.26:389][698]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_FieldC51209294F32AF4BA2E6829EE7F25930.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.53.26:395][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.132 ms (total: 7.05 sec)
+[2024.08.22-15.53.26:444][698]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.53.26:444][698]LogContentValidation: Enabled validators:
+[2024.08.22-15.53.26:444][698]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.53.26:444][698]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.53.26:444][698]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.53.26:444][698]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.53.26:444][698]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.55.18:219][390]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::Subtract_DoubleDouble' [Element not found.]
+[2024.08.22-15.55.28:051][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.08.22-15.55.28:083][476]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.55.28:130][476]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.55.28:130][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.55.28:130][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.55.28:141][476]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.55.28:141][476]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_FieldC64526DC4E5216DC7B203D987BE10AC0.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.55.28:161][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.168 ms (total: 7.13 sec)
+[2024.08.22-15.55.28:230][476]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.55.28:230][476]LogContentValidation: Enabled validators:
+[2024.08.22-15.55.28:230][476]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.55.28:230][476]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.55.28:230][476]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.55.28:230][476]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.55.28:230][476]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.55.42:857][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.08.22-15.56.25:517][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.08.22-15.56.25:550][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.56.25:603][922]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Field] ([2] browsable assets)...
+[2024.08.22-15.56.25:603][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Field]
+[2024.08.22-15.56.25:603][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Field" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset" SILENT=true
+[2024.08.22-15.56.25:613][922]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Field
+[2024.08.22-15.56.25:613][922]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_FieldF7861944414E47505AEB7F875A907F47.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Field.uasset'
+[2024.08.22-15.56.25:619][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.768 ms (total: 7.20 sec)
+[2024.08.22-15.56.25:686][922]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.22-15.56.25:686][922]LogContentValidation: Enabled validators:
+[2024.08.22-15.56.25:686][922]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.22-15.56.25:686][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.22-15.56.25:686][922]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.22-15.56.25:686][922]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Field.BP_Field
+[2024.08.22-15.56.25:686][922]AssetCheck: /Game/Blueprints/BP_Field Validating asset
+[2024.08.22-15.56.51:447][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.08.22-15.56.59:837][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.08.22-15.57.12:552][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.08.22-15.57.43:589][602]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2024.08.22-15.57.43:594][602]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2024.08.22-15.57.43:628][602]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4020
+[2024.08.22-15.57.43:961][603]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{fcd964b7-ac16-44e6-a8e0-71a437ec35ec}, Name=Speakers (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=23.10
+[2024.08.22-15.57.43:961][603]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.08.22-15.57.43:962][603]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.08.22-15.58.25:117][619]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [40 Seconds] waiting for h/w. InstanceID=1
+[2024.08.22-15.58.25:709][620]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4020
+[2024.08.22-15.58.27:397][623]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{fcd964b7-ac16-44e6-a8e0-71a437ec35ec}, Name=Speakers (Steam Streaming Speakers)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1396.11
+[2024.08.22-15.58.27:398][623]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.08.22-15.58.27:401][623]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.08.22-15.58.28:732][627]LogHttp: Warning: 0000083BD28BCB00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.08.22-15.58.28:732][627]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 0 (Found bundle for host: 0x83b20170510 [serially])
+[2024.08.22-15.58.28:732][627]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.08.22-15.58.28:732][627]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.08.22-15.58.28:732][627]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.08.22-15.58.28:732][627]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.08.22-15.58.28:732][627]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.08.22-15.58.28:732][627]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.08.22-15.58.28:732][627]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 7 (Closing connection)
+[2024.08.22-15.58.28:732][627]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.08.22-15.58.28:732][627]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.08.22-15.58.28:732][627]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.08.22-15.58.28:732][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA5A335D5-4BEB-8045-9A13-20A12416AA3F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.3-34507850%2B%2B%2BUE5%2BRelease-5.4&UserID=67c99a0443ca783e8764669e1c91b413%7Cc4f91153b722418f8f2ca09b883370ff%7C22f06a02-65e7-47c2-8479-d3348d664005&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.08.22-15.58.28:732][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 12 (  Trying 18.215.139.205:443...)
+[2024.08.22-15.58.28:732][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 13 (Connected to datarouter.ol.epicgames.com (18.215.139.205) port 443)
+[2024.08.22-15.58.28:732][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 14 (ALPN: curl offers http/1.1)
+[2024.08.22-15.58.28:732][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 15 (SSL reusing session ID)
+[2024.08.22-15.58.28:732][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 16 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.08.22-15.58.28:732][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.08.22-15.58.28:732][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2024.08.22-15.58.28:732][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 19 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2024.08.22-15.58.28:732][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 20 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2024.08.22-15.58.28:732][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2024.08.22-15.58.28:732][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 22 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.08.22-15.58.28:732][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 23 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2024.08.22-15.58.28:732][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 24 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2024.08.22-15.58.28:732][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 25 (ALPN: server accepted http/1.1)
+[2024.08.22-15.58.28:732][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 26 (Server certificate:)
+[2024.08.22-15.58.28:732][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 27 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.08.22-15.58.28:732][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 28 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.08.22-15.58.28:732][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 29 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.08.22-15.58.28:733][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 30 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.08.22-15.58.28:733][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 31 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.08.22-15.58.28:733][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 32 ( SSL certificate verify ok.)
+[2024.08.22-15.58.28:733][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 33 (using HTTP/1.1)
+[2024.08.22-15.58.28:733][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 34 (necessary data rewind wasn't possible)
+[2024.08.22-15.58.28:733][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 35 (Closing connection)
+[2024.08.22-15.58.28:733][628]LogHttp: Warning: 0000083BD28BCB00: libcurl info message cache 36 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.08.22-15.58.28:733][628]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA5A335D5-4BEB-8045-9A13-20A12416AA3F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.3-34507850%2B%2B%2BUE5%2BRelease-5.4&UserID=67c99a0443ca783e8764669e1c91b413%7Cc4f91153b722418f8f2ca09b883370ff%7C22f06a02-65e7-47c2-8479-d3348d664005&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.08.22-16.20.06:218][519]LogDerivedDataCache: C:/Users/gabri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.08.22-16.56.02:563][987]LogHttp: Warning: 0000083BD28B4D00: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2024.08.22-16.56.02:563][987]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 0 (Found bundle for host: 0x83b20170d50 [serially])
+[2024.08.22-16.56.02:563][987]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.08.22-16.56.02:563][987]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.08.22-16.56.02:563][987]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.08.22-16.56.02:563][987]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.08.22-16.56.02:563][987]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.08.22-16.56.02:563][987]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.08.22-16.56.02:563][987]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 7 (Closing connection)
+[2024.08.22-16.56.02:563][988]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.08.22-16.56.02:563][988]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.08.22-16.56.02:563][988]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.08.22-16.56.02:563][988]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA5A335D5-4BEB-8045-9A13-20A12416AA3F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.3-34507850%2B%2B%2BUE5%2BRelease-5.4&UserID=67c99a0443ca783e8764669e1c91b413%7Cc4f91153b722418f8f2ca09b883370ff%7C22f06a02-65e7-47c2-8479-d3348d664005&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.08.22-16.56.02:563][988]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 12 (  Trying 172.31.255.254:443...)
+[2024.08.22-16.56.02:563][988]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 13 (Connected to datarouter.ol.epicgames.com (172.31.255.254) port 443)
+[2024.08.22-16.56.02:563][988]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 14 (ALPN: curl offers http/1.1)
+[2024.08.22-16.56.02:563][988]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 15 (SSL reusing session ID)
+[2024.08.22-16.56.02:563][988]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 16 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.08.22-16.56.02:563][988]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.08.22-16.56.02:563][988]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2024.08.22-16.56.02:563][988]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 19 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2024.08.22-16.56.02:563][988]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 20 (TLSv1.3 (OUT), TLS alert, unknown CA (560):)
+[2024.08.22-16.56.02:563][988]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 21 (SSL certificate problem: unable to get local issuer certificate)
+[2024.08.22-16.56.02:563][988]LogHttp: Warning: 0000083BD28B4D00: libcurl info message cache 22 (Closing connection)
+[2024.08.22-16.56.02:563][988]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA5A335D5-4BEB-8045-9A13-20A12416AA3F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.3-34507850%2B%2B%2BUE5%2BRelease-5.4&UserID=67c99a0443ca783e8764669e1c91b413%7Cc4f91153b722418f8f2ca09b883370ff%7C22f06a02-65e7-47c2-8479-d3348d664005&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.08.22-16.57.16:573][209]LogHttp: Warning: 0000083BD28BC400: request failed, libcurl error: 28 (Timeout was reached)
+[2024.08.22-16.57.16:573][209]LogHttp: Warning: 0000083BD28BC400: libcurl info message cache 0 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2024.08.22-16.57.16:573][209]LogHttp: Warning: 0000083BD28BC400: libcurl info message cache 1 (  Trying 172.31.255.254:443...)
+[2024.08.22-16.57.16:573][209]LogHttp: Warning: 0000083BD28BC400: libcurl info message cache 2 (connect to 172.31.255.254 port 443 failed: Timed out)
+[2024.08.22-16.57.16:573][209]LogHttp: Warning: 0000083BD28BC400: libcurl info message cache 3 (Failed to connect to datarouter.ol.epicgames.com port 443 after 21049 ms: Couldn't connect to server)
+[2024.08.22-16.57.16:573][209]LogHttp: Warning: 0000083BD28BC400: libcurl info message cache 4 (Closing connection)
+[2024.08.22-16.57.16:573][210]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA5A335D5-4BEB-8045-9A13-20A12416AA3F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.3-34507850%2B%2B%2BUE5%2BRelease-5.4&UserID=67c99a0443ca783e8764669e1c91b413%7Cc4f91153b722418f8f2ca09b883370ff%7C22f06a02-65e7-47c2-8479-d3348d664005&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.08.22-18.32.51:532][500]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.08.22-18.32.53:448][501]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62019'.
+[2024.08.22-18.32.53:773][501]Could not fetch the local adapter addresses
+[2024.08.22-18.32.53:773][501]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2024.08.22-18.32.53:969][502]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.08.22-18.32.53:969][502]LogHttp: Warning: 0000083BD28BC400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.08.22-18.32.53:970][502]LogHttp: Warning: 0000083BD28BC400: libcurl info message cache 0 (Too old connection (4680 seconds idle), disconnect it)
+[2024.08.22-18.32.53:970][502]LogHttp: Warning: 0000083BD28BC400: libcurl info message cache 1 (Connection 10 seems to be dead)
+[2024.08.22-18.32.53:970][502]LogHttp: Warning: 0000083BD28BC400: libcurl info message cache 2 (Closing connection)
+[2024.08.22-18.32.53:970][502]LogHttp: Warning: 0000083BD28BC400: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.08.22-18.32.53:970][502]LogHttp: Warning: 0000083BD28BC400: libcurl info message cache 4 (Send failure: Connection was reset)
+[2024.08.22-18.32.53:970][503]LogHttp: Warning: 0000083BD28BC400: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2024.08.22-18.32.53:970][503]LogHttp: Warning: 0000083BD28BC400: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.08.22-18.32.53:970][503]LogHttp: Warning: 0000083BD28BC400: libcurl info message cache 7 (Closing connection)
+[2024.08.22-18.32.53:970][503]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA5A335D5-4BEB-8045-9A13-20A12416AA3F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.3-34507850%2B%2B%2BUE5%2BRelease-5.4&UserID=67c99a0443ca783e8764669e1c91b413%7Cc4f91153b722418f8f2ca09b883370ff%7C22f06a02-65e7-47c2-8479-d3348d664005&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.08.22-18.32.55:586][507]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62452'.
+[2024.08.22-18.32.55:592][507]Could not fetch the local adapter addresses
+[2024.08.22-18.32.55:592][507]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2024.08.22-18.32.55:787][508]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.08.22-18.32.57:605][513]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:56115'.
+[2024.08.22-18.32.57:608][513]Could not fetch the local adapter addresses
+[2024.08.22-18.32.57:608][513]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2024.08.22-18.32.57:788][514]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.08.22-18.32.59:623][519]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53621'.
+[2024.08.22-18.32.59:627][519]Could not fetch the local adapter addresses
+[2024.08.22-18.32.59:627][519]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2024.08.22-18.32.59:790][520]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.08.22-18.33.02:341][525]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53798'.
+[2024.08.22-18.33.02:343][525]LogUdpMessaging: Display: Added local interface '192.168.3.7' to multicast group '230.0.0.1:6666'
+[2024.08.22-18.37.20:149][300]LogWindowsTextInputMethodSystem: Activated input method: Portuguese (Brazil) - (Keyboard).
+[2024.08.22-18.37.20:179][300]LogWindowsTextInputMethodSystem: Activated input method: Portuguese (Brazil) - (Keyboard).
+[2024.08.22-18.37.21:420][424]LogDerivedDataCache: C:/Users/gabri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
