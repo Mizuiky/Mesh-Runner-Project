@@ -3026,3 +3026,187 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.08.24-14.43.39:923][571]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.08.24-14.43.39:923][571]LogContentValidation: Display: Validating asset /Game/Blueprints/GM_Runner.GM_Runner
 [2024.08.24-14.43.39:924][571]AssetCheck: /Game/Blueprints/GM_Runner Validating asset
+[2024.08.24-14.46.44:311][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.08.24-14.46.44:317][986]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4932.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.46.44:317][986]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4931.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.46.44:321][986]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_662.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.46.44:321][986]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_661.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.46.44:342][986]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4935.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.46.44:342][986]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4936.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.46.44:345][986]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_665.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.46.44:345][986]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_666.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.46.44:357][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.24-14.46.44:404][986]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GM_Runner] ([2] browsable assets)...
+[2024.08.24-14.46.44:404][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GM_Runner]
+[2024.08.24-14.46.44:404][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Runner" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/GM_Runner.uasset" SILENT=true
+[2024.08.24-14.46.44:411][986]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Runner
+[2024.08.24-14.46.44:411][986]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/GM_RunnerDB83A9CB42B3843F0F9BB7A80F7580F8.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/GM_Runner.uasset'
+[2024.08.24-14.46.44:447][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.861 ms (total: 4.20 sec)
+[2024.08.24-14.46.44:505][986]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.24-14.46.44:505][986]LogContentValidation: Enabled validators:
+[2024.08.24-14.46.44:505][986]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.24-14.46.44:505][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.24-14.46.44:505][986]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.24-14.46.44:505][986]LogContentValidation: Display: Validating asset /Game/Blueprints/GM_Runner.GM_Runner
+[2024.08.24-14.46.44:505][986]AssetCheck: /Game/Blueprints/GM_Runner Validating asset
+[2024.08.24-14.48.04:479][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.08.24-14.48.04:486][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_669.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.04:486][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_670.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.04:489][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4939.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.04:489][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4940.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.04:509][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_673.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.04:509][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_674.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.04:512][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4943.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.04:512][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4944.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.04:522][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.24-14.48.04:569][  9]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GM_Runner] ([2] browsable assets)...
+[2024.08.24-14.48.04:569][  9]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GM_Runner]
+[2024.08.24-14.48.04:569][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Runner" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/GM_Runner.uasset" SILENT=true
+[2024.08.24-14.48.04:575][  9]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Runner
+[2024.08.24-14.48.04:576][  9]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/GM_Runner066FD96743C7C4C1294D63BBE620DF4D.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/GM_Runner.uasset'
+[2024.08.24-14.48.04:581][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.079 ms (total: 4.26 sec)
+[2024.08.24-14.48.04:616][  9]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.24-14.48.04:617][  9]LogContentValidation: Enabled validators:
+[2024.08.24-14.48.04:617][  9]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.24-14.48.04:617][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.24-14.48.04:617][  9]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.24-14.48.04:617][  9]LogContentValidation: Display: Validating asset /Game/Blueprints/GM_Runner.GM_Runner
+[2024.08.24-14.48.04:617][  9]AssetCheck: /Game/Blueprints/GM_Runner Validating asset
+[2024.08.24-14.48.17:092][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.08.24-14.48.17:099][478]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_678.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.17:099][478]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_677.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.17:102][478]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4948.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.17:102][478]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4947.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.17:117][478]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_681.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.17:117][478]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_682.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.17:119][478]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4951.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.17:119][478]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4952.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.19:048][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.08.24-14.48.19:054][693]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4955.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.19:054][693]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4956.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.19:057][693]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_685.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.19:057][693]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_686.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.19:073][693]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4959.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.19:073][693]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4960.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.19:076][693]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_689.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.48.19:076][693]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_690.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.50.28:003][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.08.24-14.50.28:008][716]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4964.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.50.28:008][716]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4963.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.50.28:012][716]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_694.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.50.28:012][716]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_693.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.50.28:055][716]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4967.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.50.28:055][716]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4968.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.50.28:058][716]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_697.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.50.28:058][716]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_698.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.50.28:069][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.24-14.50.28:125][716]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Runner] ([2] browsable assets)...
+[2024.08.24-14.50.28:125][716]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Runner]
+[2024.08.24-14.50.28:125][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Runner" FILE="../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Runner.uasset" SILENT=true
+[2024.08.24-14.50.28:151][716]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Runner
+[2024.08.24-14.50.28:151][716]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/BP_Runner355A93354BB11D3989C7CF88ADAC855A.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Blueprints/BP_Runner.uasset'
+[2024.08.24-14.50.28:158][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.375 ms (total: 4.35 sec)
+[2024.08.24-14.50.28:207][716]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.24-14.50.28:207][716]LogContentValidation: Enabled validators:
+[2024.08.24-14.50.28:208][716]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.24-14.50.28:208][716]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.24-14.50.28:208][716]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.24-14.50.28:208][716]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Runner.BP_Runner
+[2024.08.24-14.50.28:208][716]AssetCheck: /Game/Blueprints/BP_Runner Validating asset
+[2024.08.24-14.51.55:465][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.08.24-14.51.55:474][552]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_701.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.51.55:474][552]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_702.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.51.55:476][552]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4971.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.51.55:476][552]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4972.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.51.55:514][552]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_705.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.51.55:514][552]LogActorComponent: RegisterComponentWithWorld: (/Game/Maps/MAP_Field.MAP_Field:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_706.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.51.55:517][552]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4975.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.51.55:517][552]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_Goal_C_CHILDACTOR_4976.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.08.24-14.51.58:338][874]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.24-14.51.58:375][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.24-14.51.58:412][874]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Field
+[2024.08.24-14.51.58:414][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001724s)
+[2024.08.24-14.51.58:414][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Field.MAP_Field to /Game/Maps/UEDPIE_0_MAP_Field.MAP_Field (0.001754s)
+[2024.08.24-14.51.58:431][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.08.24-14.51.58:434][874]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.08.24-14.51.58:435][874]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2024.08.24-14.51.58:443][874]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.08.24-14.51.58:443][874]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.24-14.51.58:443][874]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.24-14.51.58:443][874]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.24-14.51.58:443][874]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.24-14.51.58:443][874]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.24-14.51.58:443][874]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.24-14.51.58:443][874]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.24-14.51.58:443][874]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.24-14.51.58:443][874]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.24-14.51.58:443][874]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.24-14.51.58:443][874]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.24-14.51.58:444][874]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.24-14.51.58:473][874]LogAudioMixer: Display: Using Audio Hardware Device Headphones (LE_WH-1000XM3)
+[2024.08.24-14.51.58:473][874]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.24-14.51.58:473][874]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.24-14.51.58:473][874]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.24-14.51.58:473][874]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.08.24-14.51.58:473][874]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.08.24-14.51.58:475][874]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.08.24-14.51.58:475][874]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.08.24-14.51.58:475][874]LogInit: FAudioDevice initialized with ID 15.
+[2024.08.24-14.51.58:475][874]LogAudio: Display: Audio Device (ID: 15) registered with world 'MAP_Field'.
+[2024.08.24-14.51.58:476][874]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.08.24-14.51.58:478][874]LogLoad: Game class is 'GM_Runner_C'
+[2024.08.24-14.51.58:479][874]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Field.MAP_Field up for play (max tick rate 0) at 2024.08.24-11.51.58
+[2024.08.24-14.51.58:479][874]LogWorld: Bringing up level for play took: 0.000985
+[2024.08.24-14.51.58:481][874]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.08.24-14.51.58:495][874]PIE: Server logged in
+[2024.08.24-14.51.58:496][874]PIE: Play in editor total start time 0.154 seconds.
+[2024.08.24-14.52.02:285][328]LogBlueprintUserMessages: [GM_Runner_C_0] Player 1 is the Winner!
+[2024.08.24-14.52.07:323][929]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/MAP_Field"
+[2024.08.24-14.52.07:323][929]LogNet: Browse: /Game/Maps/MAP_Field
+[2024.08.24-14.52.07:324][929]LogLoad: LoadMap: /Game/Maps/MAP_Field
+[2024.08.24-14.52.07:324][929]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Field
+[2024.08.24-14.52.07:326][929]LogWorld: UWorld::CleanupWorld for MAP_Field, bSessionEnded=true, bCleanupResources=true
+[2024.08.24-14.52.07:326][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.24-14.52.07:326][929]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.08.24-14.52.07:326][929]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.08.24-14.52.07:368][929]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.24-14.52.07:370][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.08.24-14.52.07:372][929]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Field
+[2024.08.24-14.52.07:374][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001718s)
+[2024.08.24-14.52.07:374][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Field.MAP_Field to /Game/Maps/UEDPIE_0_MAP_Field.MAP_Field (0.001770s)
+[2024.08.24-14.52.07:374][929]LogAudio: Display: Audio Device (ID: 15) registered with world 'MAP_Field'.
+[2024.08.24-14.52.07:374][929]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.08.24-14.52.07:375][929]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2024.08.24-14.52.07:375][929]LogLoad: Game class is 'GM_Runner_C'
+[2024.08.24-14.52.07:375][929]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Field.MAP_Field up for play (max tick rate 0) at 2024.08.24-11.52.07
+[2024.08.24-14.52.07:376][929]LogWorld: Bringing up level for play took: 0.000928
+[2024.08.24-14.52.07:377][929]LogLoad: Took 0.053799 seconds to LoadMap(/Game/Maps/UEDPIE_0_MAP_Field)
+[2024.08.24-14.52.07:377][929]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/UEDPIE_0_MAP_Field
+[2024.08.24-14.52.11:241][392]LogBlueprintUserMessages: [GM_Runner_C_0] Player 2 is the Winner!
+[2024.08.24-14.52.14:211][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-14.52.14:211][739]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Field
+[2024.08.24-14.52.14:211][739]LogWorld: UWorld::CleanupWorld for MAP_Field, bSessionEnded=true, bCleanupResources=true
+[2024.08.24-14.52.14:212][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.24-14.52.14:212][739]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.08.24-14.52.14:212][739]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.08.24-14.52.14:214][739]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.24-14.52.14:219][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.24-14.52.14:236][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.24-14.52.14:236][739]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.08.24-14.52.14:236][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.08.24-14.52.14:237][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.08.24-14.52.14:243][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.08.24-14.52.14:284][740]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.08.24-14.52.16:206][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.24-14.52.16:293][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.08.24-14.52.16:329][961]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Field
+[2024.08.24-14.52.16:329][961]LogSavePackage: Moving '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Saved/MAP_Field00BAF5E74F2F717F628AEBB997948EEE.tmp' to '../../../../../Projects/Unreal 5/2D Unreal Course/Mesh-Runner-Project/MeshRunner/Content/Maps/MAP_Field.umap'
+[2024.08.24-14.52.16:334][961]LogFileHelpers: Saving map 'MAP_Field' took 0.070
+[2024.08.24-14.52.16:341][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.262 ms (total: 4.49 sec)
+[2024.08.24-14.52.16:397][961]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.24-14.52.16:397][961]LogContentValidation: Enabled validators:
+[2024.08.24-14.52.16:397][961]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.24-14.52.16:397][961]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.24-14.52.16:397][961]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.24-14.52.16:397][961]LogContentValidation: Display: Validating asset /Game/Maps/MAP_Field.MAP_Field
+[2024.08.24-14.52.16:397][961]AssetCheck: /Game/Maps/MAP_Field Validating asset
